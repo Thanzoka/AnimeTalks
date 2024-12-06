@@ -14,7 +14,7 @@ Este é um projeto de um site de discussão sobre animes e filmes. O site permit
 - **Exibição por categorias:** Organiza os itens por categorias para fácil navegação.
 - **Botões de interação:** Embaixo de cada item, há botões para avaliar e conhecer mais detalhes sobre o anime ou filme.
 
-![Captura da Página Inicial](assets/Captura de tela 2024-12-04 124205.png)
+![Captura da Página Inicial](assets/pagina_inicial.png)
 
 ### ***Detalhes do Filme/Anime***
 
@@ -23,21 +23,21 @@ Este é um projeto de um site de discussão sobre animes e filmes. O site permit
 - **Comentários:** Faça um comentário sobre o item (somente um comentário por usuário).
 - **Avaliação:** Atribua uma nota de 0 a 10 ao item.
 
-![Página de Detalhes](assets/Captura de tela 2024-12-04 124239.png)
+![Página de Detalhes](assets/descricao.png)
 
 ### ***Meus Filmes/Animes***
 
 - **Visualização dos itens adicionados:** Acesse todos os itens que você adicionou ao site.
 - **Editar e excluir:** Possibilidade de editar informações ou excluir itens cadastrados.
 
-![Página de Meus Filmes](assets/Captura de tela 2024-12-06 163437.png)
+![Página de Meus Filmes](assets/meus.png)
 
 ### ***Perfil do Usuário***
 
 - **Editar perfil:** Permite alterar o nome e as informações de conta.
 - **Alterar senha:** Possibilidade de atualizar a senha de login.
 
-![Página de Meus Filmes](assets/Captura de tela 2024-12-06 164306.png)
+![Página de Meus Filmes](assets/perfil.png)
 
 ###***Funcionalidade de Busca***
 
