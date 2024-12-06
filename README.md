@@ -39,7 +39,7 @@ Este é um projeto de um site de discussão sobre animes e filmes. O site permit
 
 ![Página de Meus Filmes](assets/perfil.png)
 
-###***Funcionalidade de Busca***
+### ***Funcionalidade de Busca***
 
 - **Buscar filmes/animes:** Barra de pesquisa para localizar rapidamente um anime ou filme.
 
@@ -52,6 +52,6 @@ Este é um projeto de um site de discussão sobre animes e filmes. O site permit
 
 ***
 
-## **Licença
+## **Licença**
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
